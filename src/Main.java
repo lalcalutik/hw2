@@ -10,7 +10,6 @@ public class Main {
         task8();
 
     }
-
     public static void task1 () {
         System.out.println("Задача 1");
         var dog = 0.8;
@@ -20,7 +19,6 @@ public class Main {
         System.out.println(cat);
         System.out.println(paper);
     }
-
     public static void task2 () {
         System.out.println("Задача 2");
         var dog = 0.8;
